@@ -21,7 +21,7 @@ Automated test suite demonstrating API mocking, E2E testing, and Page Object Mod
 
 ## Project Structure
 ```
-anytax-qa-assessment/
+fintech-qa-automation/
 ├── pages/                  # Page Object Models
 ├── tests/                  # Test specifications
 ├── public/                 # HTML files
@@ -35,7 +35,7 @@ anytax-qa-assessment/
 ```bash
 # Clone repository
 git clone <git@github.com:irrivero/fintech-qa-automation.git>
-cd anytax-qa-assessment
+cd fintech-qa-automation
 
 # Install dependencies
 npm install
