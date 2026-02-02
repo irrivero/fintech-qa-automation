@@ -97,17 +97,6 @@ expect(price).toMatch(/^\$\d+\.\d{2}$/);
 - Page Object Model
 - HTML Reporter
 
-## Assessment Requirements
-
-- [x] TypeScript + Playwright implementation
-- [x] API mocking for /api/transfer (success & error)
-- [x] E2E tests on SauceDemo
-- [x] Page Object Model pattern
-- [x] Clean, readable code
-- [x] Stable selectors, no hardcoded waits
-- [x] HTML test report
-- [x] All tests passing
-- [x] Screenshot included
 
 ## Author
 
