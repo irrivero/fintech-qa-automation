@@ -34,7 +34,7 @@ anytax-qa-assessment/
 **Prerequisites:** Node.js v18+
 ```bash
 # Clone repository
-git clone <your-repository-url>
+git clone <git@github.com:irrivero/fintech-qa-automation.git>
 cd anytax-qa-assessment
 
 # Install dependencies
